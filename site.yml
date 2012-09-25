@@ -1,15 +1,13 @@
-title : Blog Title
-tagline: Blog Tagline
+title : Schmod's Thoughts
+tagline: Blag.
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Andrew Schmadel
+  github : schmod
+
 
 navigation :
   - archive.html
-  - tags.html
+  
   - categories.html
   - pages.html
   - about.md
