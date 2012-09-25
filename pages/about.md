@@ -3,4 +3,6 @@ title : About Me
 description:
 ---
 
-Hello, how are you?
+Some musings, and projects that I'm working on.  
+
+But, for now, mostly a place to put things for later...
